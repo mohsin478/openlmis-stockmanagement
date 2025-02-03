@@ -1,4 +1,4 @@
-name: SonarCloud OpenLMIS-stockmanagement Pipeline
+name: SonarCloud OpenLMIS-stock management Pipeline
 on:
   push:
     branches:
